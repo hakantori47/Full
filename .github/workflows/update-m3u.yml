@@ -1,0 +1,38 @@
+name: M3U Listelerini Birleştir
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Saatlik
+  workflow_dispatch:      # Manuel çalıştırma
+  push:                   # Dosya değişince
+
+jobs:
+  merge-lists:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Listeleri indir ve birleştir
+      run: |
+        echo "#EXTM3U" > combined.m3u
+        echo "# Birleştirilmiş Liste - $(date)" >> combined.m3u
+        echo "" >> combined.m3u
+        
+        echo "# 5 Bot Maç Kanalları" >> combined.m3u
+        curl -s -L "https://raw.githubusercontent.com/hakantori47/5/main/ULTIMATE-ALL-STREAMS.m3u" >> combined.m3u
+        echo "" >> combined.m3u
+        
+        echo "# Ulusal TV Kanalları" >> combined.m3u
+        curl -s -L "http://stream.tvcdn.net/lists/tr.m3u" >> combined.m3u
+        echo "" >> combined.m3u
+        
+        echo "# Film Kanalları" >> combined.m3u
+        curl -s -L "https://tinyurl.com/2bhf2qox" >> combined.m3u
+        
+    - name: Değişiklikleri commit et
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add combined.m3u
+        git commit -m "Listeler güncellendi - $(date)" || exit 0
+        git push
