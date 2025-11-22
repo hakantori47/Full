@@ -9,10 +9,12 @@ on:
 jobs:
   merge-lists:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v4
       with:
-        token: ${{ secrets.PAT_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Listeleri indir ve birleştir
       run: |
