@@ -1,5 +1,5 @@
 #EXTM3U
-# Birleştirilmiş Liste - Mon Nov 24 08:55:00 UTC 2025
+# Birleştirilmiş Liste - Mon Nov 24 09:45:36 UTC 2025
 
 # 5 Bot Maç Kanalları
 #EXTM3U
@@ -545,6 +545,8 @@ http://stream.tvcdn.net/dini/mukabele-tv.m3u8
 http://stream.tvcdn.net/kurumlar/besiktas-web-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b694fd40-7fb1-4ee7-bb9c-f143b4b54f93.jpeg" group-title="Kurumlar",Çekmeköy Web TV
 http://stream.tvcdn.net/kurumlar/cekmekoy-web-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d2c0564b-1b54-4309-bcdd-431f17f66e8d.jpg" group-title="Kurumlar",Esenler Şehir Ekranı
+http://stream.tvcdn.net/kurumlar/esenler-sehir-ekrani.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2255cdee-75ad-4908-87f7-56c3ec9a7732.png" group-title="Kurumlar",İBB TV
 http://stream.tvcdn.net/kurumlar/ibb-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/dcde5345-2b03-4146-9952-06bc60ef5238.png" group-title="Kurumlar",Ordu BB TV
@@ -693,8 +695,6 @@ http://stream.tvcdn.net/yerel/on6.m3u8
 http://stream.tvcdn.net/yerel/on-medya.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d83e24e0-5f5d-4a30-b19e-b04f82ae0207.png" group-title="Yerel",ORT TV
 http://stream.tvcdn.net/yerel/ort-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b99fecaa-dfd3-4b6e-8fd2-51e9545ee425.png" group-title="Yerel",Öncü RTV
-http://stream.tvcdn.net/yerel/oncu-rtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9a9d6b18-00cb-4fdf-9518-133fd1bd10e3.jpg" group-title="Yerel",Pusula TV
 http://stream.tvcdn.net/yerel/pusula-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ffb891c-b700-4d7a-8c47-b9aaa732caa5.jpeg" group-title="Yerel",Rize Türk
@@ -729,8 +729,6 @@ http://stream.tvcdn.net/yerel/tv-41.m3u8
 http://stream.tvcdn.net/yerel/tv-48.m3u8
 #EXTINF:-1 tvg-id="TV52.tr" tvg-logo="http://assets.tvcdn.net/1c27dd5e-0bd9-4928-8b1e-20c5da6118c3.png" group-title="Yerel",TV 52
 http://stream.tvcdn.net/yerel/tv-52.m3u8
-#EXTINF:-1 tvg-id="TVDen.tr" tvg-logo="http://assets.tvcdn.net/d2435c44-27b1-4673-a846-8eb815c332d1.png" group-title="Yerel",TV DEN
-http://stream.tvcdn.net/yerel/tv-den.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b9fd9a9a-849c-4d83-8f99-34402e15c52a.png" group-title="Yerel",TV Kayseri
 http://stream.tvcdn.net/yerel/tv-kayseri.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/78f2cadd-f396-4242-ae19-fd24a6d47e1b.png" group-title="Yerel",TV Sen 1 Ordusun
@@ -845,6 +843,8 @@ http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
 http://stream.tvcdn.net/azerbaycan/cbc.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0a138109-453b-4df0-bc70-c04573a5afaf.png" group-title="Azerbaycan",Dünya TV
 http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
+#EXTINF:-1 tvg-id="" group-title="Azerbaycan",Farrukh TV
+http://stream.tvcdn.net/azerbaycan/farrukh-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png" group-title="Azerbaycan",Ictimai TV
 http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" group-title="Azerbaycan",MCJ TV Shop
@@ -870,6 +870,8 @@ http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
 
 # Film Kanalları
 ﻿#EXTM3U
+#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUxMjE2YWQtY2YwMS00MTdkLTg0ZWQtMTQ0NzExY2U4NGZkXkEyXkFqcGc@._V1_.jpg" group-title="✨ ANIMASYON  ✨COCUK✨",Piece by Piece-Parça Parça  (2024)Müzikal Animasyon
+https://vidmody.com/vs/tt31064841/
 #EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmFjOGIwMDUtMjEyYi00MzE0LWEwMmMtMjYyMGUzM2RkMjlhXkEyXkFqcGc@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="✨ ANIMASYON  ✨COCUK✨",In Your Dreams(2025)Ancak Rüyada Olur  -animasyon
 https://vidmody.com/vs/tt27604215/
 #EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2YwODhmODctMjE2OS00Y2EyLWEyZTEtOGU3ODk5MGIzYmU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="✨ ANIMASYON  ✨COCUK✨",The Bad Guys 2 (2025)
@@ -1948,6 +1950,8 @@ https://vidmody.com/vs/tt0133093/
 https://vidmody.com/mm/tt0068646/main/index.m3u8
 #EXTINF:0 type="video" tvg-logo="https://turkcealtyazi.org/film/200/0120737.jpg" group-title="✨IMDb Top Rated✨",(🌟8.9)Yüzüklerin Efendisi: Yüzük Kardeşliği:The Lord of the Rings: The Fellowship of the Ring (2001)
 https://vidmody.com/mm/tt0120737/main/index.m3u8
+#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU4NTBhNDYtNTQ2OS00MTA1LWIwMjAtZjNhMzM5ZDYzYTQyXkEyXkFqcGc@._V1_.jpg" group-title="✨YERLI FILM✨",Ölü Mevsim (2024) Drama-Funda Eryigit-Ece Yasar-Erdem Senocak
+https://vidmody.com/vs/tt21060022/
 #EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2YyNDZkZDYtYmY3Zi00Y2YwLWE0ZDUtOWM0MzJkOTYxYmE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="✨YERLI FILM✨",On the Water Surface (2024)Su Yüzü -Drama
 https://vidmody.com/vs/tt29102353/
 #EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWFmYWRlYTAtYjY1My00NzRiLTgxZDEtZWE4NTU2NGJlYjliXkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg" group-title="✨YERLI FILM✨",Tehlikeyle Flört (2015)Komedi
@@ -8712,6 +8716,10 @@ https://vidmody.com/mm/tt1131724/main/index.m3u8
 https://vidmody.com/mm/tt1221208/main/index.m3u8
 #EXTINF:0 type="video" tvg-logo="https://image.tmdb.org/t/p/w500/ujERk3aKABXU3NDXOAxEQYTHe9A.jpg" group-title="✨YABANCI    ✨TR DBL",10 Things I Hate About You
 https://vidmody.com/mm/tt0147800/main/index.m3u8
+#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjk2YjRhMGUtOGVjOC00ZTA0LTlhYzUtY2Y5OWZhYzQ0NmJkXkEyXkFqcGc@._V1_QL75_UX145_.jpg" group-title="🔥Yeni🔥Eklenenler",AfrAId (2024)Korku-Gerilim John Cho-Katherine Waterston
+https://vidmody.com/vs/tt24577462/
+#EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzYyOTAwODEtZTY4My00MjVkLWJjYjUtMjE2N2UzYTE3MTY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🔥Yeni🔥Eklenenler",After the Hunt(2025)Suç-Dram-Gerilim
+https://vidmody.com/vs/tt32159989/
 #EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGFiNDgxYmUtYjUxNy00ZmU3LWFhM2QtYzMzMGY3ZTQ0YzU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="🔥Yeni🔥Eklenenler",East of Wall (2025) Drama
 https://vidmody.com/vs/tt21349688/
 #EXTINF:0 type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBjNmMxNDUtNzJhZC00YTI0LWI3Y2YtMzI2YzU0ZDgyYjQ4XkEyXkFqcGc@._V1_.jpg" group-title="🔥Yeni🔥Eklenenler",Risque (2025)Aksiyon-Suç-Gerilim
