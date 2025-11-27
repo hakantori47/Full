@@ -1,5 +1,5 @@
 #EXTM3U
-# Birleştirilmiş Liste - Thu Nov 27 22:37:34 UTC 2025
+# Birleştirilmiş Liste - Thu Nov 27 23:31:44 UTC 2025
 
 # 5 Bot Maç Kanalları
 #EXTM3U
@@ -583,8 +583,6 @@ http://stream.tvcdn.net/yerel/balkan-turk.m3u8
 http://stream.tvcdn.net/yerel/belem-turk-tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Yerel",Bizim Ocak TV
 http://stream.tvcdn.net/yerel/bizim-ocak-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f32e47e7-916c-40c7-a8a6-83d9e459e53a.png" group-title="Yerel",Bodrum Kent TV
-http://stream.tvcdn.net/yerel/bodrum-kent-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5702a0f6-7b78-4645-bacf-516f63fed0b7.png" group-title="Yerel",BRTV Karabük
 http://stream.tvcdn.net/yerel/brtv-karabuk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7c0f5047-0f57-4281-a76e-f794e83b1824.jpeg" group-title="Yerel",Bul Türk TV
@@ -623,6 +621,8 @@ http://stream.tvcdn.net/yerel/haber-61-tv.m3u8
 http://stream.tvcdn.net/yerel/hunat-tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Yerel",Hür TV
 http://stream.tvcdn.net/yerel/hur-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7213d1c6-5110-4d15-908a-ae917d76418a.jpg" group-title="Yerel",İçel TV
+http://stream.tvcdn.net/yerel/icel-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/557c3d07-ac1f-49ec-95ab-8171f782580f.png" group-title="Yerel",İzmir Time 35
 http://stream.tvcdn.net/yerel/izmir-time-35.m3u8
 #EXTINF:-1 tvg-id="Kanal3.tr" tvg-logo="http://assets.tvcdn.net/56083fc6-468c-4fdd-bb0c-5fbc65316124.png" group-title="Yerel",Kanal 3
@@ -693,8 +693,6 @@ http://stream.tvcdn.net/yerel/on6.m3u8
 http://stream.tvcdn.net/yerel/on-medya.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d83e24e0-5f5d-4a30-b19e-b04f82ae0207.png" group-title="Yerel",ORT TV
 http://stream.tvcdn.net/yerel/ort-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b99fecaa-dfd3-4b6e-8fd2-51e9545ee425.png" group-title="Yerel",Öncü RTV
-http://stream.tvcdn.net/yerel/oncu-rtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9a9d6b18-00cb-4fdf-9518-133fd1bd10e3.jpg" group-title="Yerel",Pusula TV
 http://stream.tvcdn.net/yerel/pusula-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/3ffb891c-b700-4d7a-8c47-b9aaa732caa5.jpeg" group-title="Yerel",Rize Türk
@@ -717,16 +715,12 @@ http://stream.tvcdn.net/yerel/turhal-super-tv.m3u8
 http://stream.tvcdn.net/yerel/turk-haber.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f843631d-b47b-4476-8cad-914f2adc4133.png" group-title="Yerel",TV 1 Kayseri
 http://stream.tvcdn.net/yerel/tv-1-kayseri.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/81f002fb-a59f-480e-9aa0-91b096ab491e.png" group-title="Yerel",TV 25
-http://stream.tvcdn.net/yerel/tv-25.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d7296b88-706a-423b-85a1-54c09d9197eb.png" group-title="Yerel",TV 264
 http://stream.tvcdn.net/yerel/tv-264.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/de6c8885-b1ca-41d8-8e96-67e32cc7a881.png" group-title="Yerel",TV 41
 http://stream.tvcdn.net/yerel/tv-41.m3u8
 #EXTINF:-1 tvg-id="TV52.tr" tvg-logo="http://assets.tvcdn.net/1c27dd5e-0bd9-4928-8b1e-20c5da6118c3.png" group-title="Yerel",TV 52
 http://stream.tvcdn.net/yerel/tv-52.m3u8
-#EXTINF:-1 tvg-id="TVDen.tr" tvg-logo="http://assets.tvcdn.net/d2435c44-27b1-4673-a846-8eb815c332d1.png" group-title="Yerel",TV DEN
-http://stream.tvcdn.net/yerel/tv-den.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b9fd9a9a-849c-4d83-8f99-34402e15c52a.png" group-title="Yerel",TV Kayseri
 http://stream.tvcdn.net/yerel/tv-kayseri.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/78f2cadd-f396-4242-ae19-fd24a6d47e1b.png" group-title="Yerel",TV Sen 1 Ordusun
@@ -763,6 +757,8 @@ http://stream.tvcdn.net/dizi-youtube/siyah-beyaz-ask.m3u8
 http://stream.tvcdn.net/dizi-youtube/tatli-intikam.m3u8
 #EXTINF:-1 tvg-id="CanTV.tr" tvg-logo="http://assets.tvcdn.net/f648574b-3fcd-4e1e-b1ea-22c65e4906a9.png" group-title="Diğer",Can TV
 http://stream.tvcdn.net/diger/can-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/46eba33a-e14c-44f0-8423-a05cfe0f695b.png" group-title="Diğer",Düzgün TV
+http://stream.tvcdn.net/diger/duzgun-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5cb9e931-5fbc-4d24-aedb-b7465226515f.jpg" group-title="Diğer",Euro 34 TV
 http://stream.tvcdn.net/diger/euro-34-tv.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr" tvg-logo="http://assets.tvcdn.net/e876bf88-411c-4a9c-ad29-e449e651f7ae.png" group-title="Diğer",Luys TV
@@ -779,8 +775,6 @@ http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
 http://stream.tvcdn.net/diger/uni-tv.m3u8
 #EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="Diğer",Woman TV
 http://stream.tvcdn.net/diger/woman-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6feeb5fd-1392-4230-aba7-c36319321758.png" group-title="Diğer",Yaşam TV
-http://stream.tvcdn.net/diger/yasam-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ff9bad51-26ca-40cb-8c05-071f1c775546.png" group-title="Diğer-Müzik",Damar Web TV
 http://stream.tvcdn.net/diger-muzik/damar-web-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/372149bf-3045-43ea-9794-dfea243bfb0e.png" group-title="Diğer-Müzik",Arabesk Web TV
@@ -793,6 +787,10 @@ http://stream.tvcdn.net/diger-muzik/zeyno.m3u8
 http://stream.tvcdn.net/diger-muzik/dost-web-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4a8468ec-c134-4db1-93ef-699f15e1522b.png" group-title="Diğer-Müzik",Toppop TV
 http://stream.tvcdn.net/diger-muzik/toppop-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5b807bfa-5808-4af2-8a4b-4212e6d3d132.png" group-title="Diğer-Müzik",Ezo TV
+http://stream.tvcdn.net/diger-muzik/ezo-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/4ed2a8ac-fd7f-4379-84cc-af1473c3fa72.png" group-title="Diğer-Müzik",Arma TV
+http://stream.tvcdn.net/diger-muzik/arma-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fc1e5546-cc3e-4c7e-b379-f16052c81901.png" group-title="Diğer-Müzik",Genç SMS TV
 http://stream.tvcdn.net/diger-muzik/genc-sms-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/8c8a9c78-0e9a-456c-8427-a727f81c8ca8.png" group-title="Diğer-Müzik",Aviva
