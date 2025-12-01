@@ -1,5 +1,5 @@
 #EXTM3U
-# Birleştirilmiş Liste - Mon Dec  1 17:18:00 UTC 2025
+# Birleştirilmiş Liste - Mon Dec  1 18:26:18 UTC 2025
 
 # 5 Bot Maç Kanalları
 #EXTM3U
@@ -571,6 +571,8 @@ http://stream.tvcdn.net/yerel/anadolu-dernek-tv.m3u8
 http://stream.tvcdn.net/yerel/anadolu-net-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f300230c-4870-4323-8a1e-df767ae280f6.png" group-title="Yerel",Aras TV
 http://stream.tvcdn.net/yerel/aras-tv.m3u8
+#EXTINF:-1 tvg-id="ASTV.tr" tvg-logo="http://assets.tvcdn.net/448471a0-f688-4ac5-a279-1771f384b6de.png" group-title="Yerel",As TV
+http://stream.tvcdn.net/yerel/as-tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Yerel",Balkan Türk
 http://stream.tvcdn.net/yerel/balkan-turk.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/82ea9645-e22d-4968-a544-659ca6b88eb8.png" group-title="Yerel",Belem Türk TV
@@ -587,8 +589,6 @@ http://stream.tvcdn.net/yerel/bul-turk-tv.m3u8
 http://stream.tvcdn.net/yerel/cay-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ce326dc3-6050-4712-a4cd-d056e835b1c7.png" group-title="Yerel",Dim TV
 http://stream.tvcdn.net/yerel/dim-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/498a97e1-d327-4478-b243-62c3b20209f6.png" group-title="Yerel",Edirne TV
-http://stream.tvcdn.net/yerel/edirne-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Yerel",Ekol TV
 http://stream.tvcdn.net/yerel/ekol-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0611b1aa-aa79-4dcb-ad05-7166dde05c94.png" group-title="Yerel",Erciş TV
@@ -641,6 +641,8 @@ http://stream.tvcdn.net/yerel/kanal-53.m3u8
 http://stream.tvcdn.net/yerel/kanal-58.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/157dc591-f4ab-4694-9dfc-d18e5eb7e2bb.png" group-title="Yerel",Kanal 60
 http://stream.tvcdn.net/yerel/kanal-60.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/5cbdd199-9ed1-4f2d-a106-a6d9c53227c4.png" group-title="Yerel",Kanal Ada
+http://stream.tvcdn.net/yerel/kanal-ada.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/60c8ebf4-c5f6-4cb8-bab7-aae682e074dc.png" group-title="Yerel",Kanal Avrupa
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr" tvg-logo="http://assets.tvcdn.net/f00f1472-e8e7-4f30-b9e3-fb4376a43aac.png" group-title="Yerel",Kanal Fırat
@@ -665,8 +667,6 @@ http://stream.tvcdn.net/yerel/kocaeli-tv.m3u8
 http://stream.tvcdn.net/yerel/konya-olay-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a3db9643-bdfc-4287-9c9d-58315d650b0e.jpg" group-title="Yerel",Konya TV
 http://stream.tvcdn.net/yerel/konya-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98332ddc-a62d-4a9e-b697-a4db71a0cce0.png" group-title="Yerel",Köroğlu TV
-http://stream.tvcdn.net/yerel/koroglu-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9a5fc361-21cb-40f8-afa9-bf3ca70a5caf.png" group-title="Yerel",Life TV Kayseri
 http://stream.tvcdn.net/yerel/life-tv-kayseri.m3u8
 #EXTINF:-1 tvg-id="LineTV.tr" tvg-logo="http://assets.tvcdn.net/bf3f550c-2235-4bb1-a842-6d0a38df0a90.png" group-title="Yerel",Line TV Bursa
@@ -701,6 +701,8 @@ http://stream.tvcdn.net/yerel/tivi6.m3u8
 http://stream.tvcdn.net/yerel/trakya-turk-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/783364fa-298e-4a56-a602-ba34f50392e6.png" group-title="Yerel",Ton TV Çanakkale
 http://stream.tvcdn.net/yerel/ton-tv-canakkale.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/1d33eac1-ec1c-4049-89f5-36bebbd98483.png" group-title="Yerel",Tokat TV
+http://stream.tvcdn.net/yerel/tokat-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27885d5b-6c49-4257-bd09-f20f63489090.png" group-title="Yerel",Turhal Süper TV
 http://stream.tvcdn.net/yerel/turhal-super-tv.m3u8
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-logo="http://assets.tvcdn.net/7b8dbf43-064f-4458-9c93-71089eaf493b.png" group-title="Yerel",Türk Haber
@@ -793,6 +795,8 @@ http://stream.tvcdn.net/diger-muzik/finest-tv.m3u8
 http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c8bba93e-76e5-426a-8d4a-8b545559be59.png" group-title="Diğer-Müzik",Slow Karadeniz TV
 http://stream.tvcdn.net/diger-muzik/slow-karadeniz-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e167f3b3-b68b-46a2-ab53-a56a7e2b7ab6.png" group-title="Diğer-Müzik",Kardeş TV
+http://stream.tvcdn.net/diger-muzik/kardes-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e7578e04-aeb6-494f-bef5-672c6efef128.png" group-title="Diğer-Müzik",Sönmez TV
 http://stream.tvcdn.net/diger-muzik/sonmez-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="Diğer-Eğlence",SuperTurk TV
@@ -807,6 +811,8 @@ http://stream.tvcdn.net/diger-eglence/isvicre-tv.m3u8
 http://stream.tvcdn.net/diger-eglence/kanal-19.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/917ae8e7-cebb-4647-9fe7-8e9529088d73.png" group-title="Diğer-Eğlence",Tivi Türk
 http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9e6ed485-fb7d-4d86-a76c-91f7d8149f22.png" group-title="Diğer-Eğlence",Viyana TV
+http://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png" group-title="Azerbaycan",Apa TV
 http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azerbaycan",ARB
