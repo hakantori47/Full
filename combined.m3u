@@ -1,5 +1,5 @@
 #EXTM3U
-# Birleştirilmiş Liste - Mon Dec  8 05:18:25 UTC 2025
+# Birleştirilmiş Liste - Mon Dec  8 06:28:01 UTC 2025
 
 # 5 Bot Maç Kanalları
 #EXTM3U
@@ -397,8 +397,6 @@ http://stream.tvcdn.net/muzik/number-one-tv.m3u8
 http://stream.tvcdn.net/muzik/number-one-turk.m3u8
 #EXTINF:-1 tvg-id="TatlisesTV.tr" tvg-logo="http://assets.tvcdn.net/c65a05ac-96c4-4e80-b232-d27e88fc70c6.png" group-title="Müzik",Tatlıses TV
 http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
-#EXTINF:-1 tvg-id="TMB.tr" tvg-logo="http://assets.tvcdn.net/bff30a45-6e50-456c-af0e-62c62191c837.png" group-title="Müzik",TMB
-http://stream.tvcdn.net/muzik/tmb.m3u8
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="Müzik",Number 1 Aşk
 http://stream.tvcdn.net/muzik/number-1-ask.m3u8
 #EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="Müzik",Number 1 Damar
@@ -427,6 +425,8 @@ http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="Çocuk&Eğitim",Çizgi Film TV
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
+#EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="http://assets.tvcdn.net/4314e627-e051-4e11-9dbe-cc3eab17a571.png" group-title="Dini",Diyanet TV
+http://stream.tvcdn.net/dini/diyanet-tv.m3u8
 #EXTINF:-1 tvg-id="SemerkandWay.tr" tvg-logo="http://assets.tvcdn.net/01b74bf2-a065-4d30-9ad6-a4213eb88cfa.png" group-title="Dini",Semerkand Way
 http://stream.tvcdn.net/dini/semerkand-way.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr" tvg-logo="http://assets.tvcdn.net/95e2b9a5-991b-4eda-bd0f-ec3c570d9147.png" group-title="Dini",Dost TV
@@ -595,6 +595,8 @@ http://stream.tvcdn.net/yerel/kastamonu-tv.m3u8
 http://stream.tvcdn.net/yerel/kay-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b80ee8ad-5cd5-4a12-885d-0def48c0ebfb.png" group-title="Yerel",Kent Türk
 http://stream.tvcdn.net/yerel/kent-turk.m3u8
+#EXTINF:-1 tvg-id="KocaeliTV.tr" tvg-logo="http://assets.tvcdn.net/af084b20-c036-4884-91ff-3ca3accec3ab.png" group-title="Yerel",Kocaeli TV
+http://stream.tvcdn.net/yerel/kocaeli-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/fda805fb-82ec-493a-9d92-6b7cc6eaeb48.jpg" group-title="Yerel",Konya Olay TV
 http://stream.tvcdn.net/yerel/konya-olay-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a3db9643-bdfc-4287-9c9d-58315d650b0e.jpg" group-title="Yerel",Konya TV
@@ -733,8 +735,6 @@ http://stream.tvcdn.net/diger-muzik/kardes-tv.m3u8
 http://stream.tvcdn.net/diger-muzik/sonmez-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bac5987e-f340-4e36-b1fb-9b8b61d5b9a0.png" group-title="Diğer-Eğlence",SuperTurk TV
 http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f9cd2889-605a-4f77-ab14-9425570a8bac.png" group-title="Diğer-Eğlence",Cine 1
-http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a26c3736-672a-45df-a3d8-8c00330b5f04.png" group-title="Diğer-Eğlence",Deniz Postası TV
 http://stream.tvcdn.net/diger-eglence/deniz-postasi-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a72d22fe-9e79-4cac-ad75-67635e6b68c9.png" group-title="Diğer-Eğlence",İsviçre TV
@@ -747,46 +747,16 @@ http://stream.tvcdn.net/diger-eglence/tivi-turk.m3u8
 http://stream.tvcdn.net/diger-eglence/viyana-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/07df8da2-6115-49e7-84fb-717cadf0723d.png" group-title="Azerbaycan",Apa TV
 http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7ead0f6e-66c4-4813-8f0c-730c3ede8095.png" group-title="Azerbaycan",ARB
-http://stream.tvcdn.net/azerbaycan/arb.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/9c5f469a-6305-4b57-a591-d44a0bae7bc0.png" group-title="Azerbaycan",ARB 24
-http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/eab1873b-fe30-41c6-b755-ba6a6709f4cd.png" group-title="Azerbaycan",ARB Gunes
-http://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/84f1c014-d4b5-48bf-be6b-97afd96c7cb5.png" group-title="Azerbaycan",Azad TV
 http://stream.tvcdn.net/azerbaycan/azad-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png" group-title="Azerbaycan",Az Star TV
 http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/532ddf5c-b187-4616-b2e4-43d055fd53fc.png" group-title="Azerbaycan",Baku TV
-http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f6608442-2bd6-4e63-b229-7a4c2eb945de.png" group-title="Azerbaycan",CBC
 http://stream.tvcdn.net/azerbaycan/cbc.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0a138109-453b-4df0-bc70-c04573a5afaf.png" group-title="Azerbaycan",Dünya TV
-http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
 #EXTINF:-1 tvg-id="" group-title="Azerbaycan",Farrukh TV
 http://stream.tvcdn.net/azerbaycan/farrukh-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d5ef1443-3b24-4554-a82f-bfc47672fa21.png" group-title="Azerbaycan",Ictimai TV
-http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2a676b79-b093-4fc0-a539-dd53381ac8ad.png" group-title="Azerbaycan",MCJ TV Shop
-http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/60b3dc4b-1f50-430f-bf3e-0316920d0447.png" group-title="Azerbaycan",Medeniyyet TV
-http://stream.tvcdn.net/azerbaycan/medeniyyet-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/27890fa6-d544-401b-8372-05f5215b0dc4.png" group-title="Azerbaycan",Muz TV Azerbaycan
-http://stream.tvcdn.net/azerbaycan/muz-tv-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b2fc314b-2660-48fd-b876-7aa2910dc7e2.png" group-title="Azerbaycan",Real TV
-http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/b1f9d0e3-fad4-4ef6-b002-b205b5f44677.png" group-title="Azerbaycan",Space TV
-http://stream.tvcdn.net/azerbaycan/space-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/ca83dcf1-6fc5-4ade-bad6-a9749b37b671.png" group-title="Azerbaycan",Start TV
-http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/e6f5a04c-23bf-4d99-80c5-57bd6f9adee5.png" group-title="Azerbaycan",TMB Azerbaycan
-http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/7f645673-da1a-444c-b2de-88afa0efaf67.jpeg" group-title="Azerbaycan",VIP HD
-http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/d0b584bf-e130-4546-9042-7420b066b5d1.png" group-title="Azerbaycan",Vilayet TV
 http://stream.tvcdn.net/azerbaycan/vilayet-tv.m3u8
-#EXTINF:-1 tvg-id="" group-title="Azerbaycan",Xezer TV
-http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
 
 # Film Kanalları
 ﻿#EXTM3U
