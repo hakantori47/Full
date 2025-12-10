@@ -1,5 +1,5 @@
 #EXTM3U
-# Birleştirilmiş Liste - Wed Dec 10 11:15:01 UTC 2025
+# Birleştirilmiş Liste - Wed Dec 10 12:35:14 UTC 2025
 
 # 5 Bot Maç Kanalları
 #EXTM3U
@@ -443,6 +443,8 @@ https://streams.uzunmuhalefet.com/stream/7281ff5c-c2e1-4c75-8bd9-2141d3ac6824.m3
 https://streams.uzunmuhalefet.com/stream/878720d6-1278-46de-92c0-46cccb565905.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://assets.uzunmuhalefet.com/logos/f9f83480-1122-44da-9db1-93d16d10e249.png" tvg-url="" tvg-id="",DMAX Antik Mısır
 https://streams.uzunmuhalefet.com/stream/37ca2f56-f2d0-4704-994f-f9eadb81d2ff.m3u8
+#EXTINF:-1 group-title="Eğlence" tvg-logo="https://assets.uzunmuhalefet.com/logos/" tvg-url="" tvg-id="",Korku TV
+https://streams.uzunmuhalefet.com/stream/8483481d-155e-448e-80d2-684c95cd7f1e.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://assets.uzunmuhalefet.com/logos/673c4e13-d884-4291-8d76-ed54ff55d116.png" tvg-url="" tvg-id="",Avşar Film
 https://streams.uzunmuhalefet.com/stream/5d18ff69-8b04-42c1-b528-9bc8491095c8.m3u8
 #EXTINF:-1 group-title="Eğlence" tvg-logo="https://assets.uzunmuhalefet.com/logos/49083f6c-8750-4d7c-bcbd-dc48d6d911fe.png" tvg-url="" tvg-id="",Topkapı Film
@@ -535,8 +537,6 @@ https://streams.uzunmuhalefet.com/stream/e71083cf-eb54-408b-8aba-d66690520801.m3
 https://streams.uzunmuhalefet.com/stream/7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3u8
 #EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/dd4da8fc-609f-4d05-8adb-9bba0f584738.png" tvg-url="https://topraktv.com.tr/" tvg-id="",Toprak TV
 https://streams.uzunmuhalefet.com/stream/54fd8806-0142-4839-930e-aa1d662ad866.m3u8
-#EXTINF:-1 group-title="Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/ed12053a-f7cb-42f8-a9bb-26e1e992ea99.png" tvg-url="" tvg-id="",NatureTime Türkçe
-https://streams.uzunmuhalefet.com/stream/ec36d9c3-9cc2-4d79-ad94-16af00c95bf4.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/ec9eb56f-cabd-4dd5-b0cf-d743e92a288b.png" tvg-url="https://www.trtcocuk.net.tr/" tvg-id="TRTCocuk.tr",TRT Çocuk
 https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/9ae01de4-e188-48c6-b35a-430074d7b228.png" tvg-url="https://www.trtdiyanetcocuk.net.tr/" tvg-id="TRTDiyanetCocuk.tr",TRT Diyanet Çocuk
@@ -571,10 +571,6 @@ https://streams.uzunmuhalefet.com/stream/74b657d5-0a10-4315-8875-764ca6e2a067.m3
 https://streams.uzunmuhalefet.com/stream/b46ec7d1-6a6d-44e8-a2eb-4c127f8ecc32.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/490983ac-1318-470b-9140-89c6d51969b5.png" tvg-url="" tvg-id="",Transformers
 https://streams.uzunmuhalefet.com/stream/36056507-0baf-4e82-a9c0-3242340d053b.m3u8
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/986865f2-192b-42e6-8676-b7772d177698.png" tvg-url="" tvg-id="",Kral Şakir
-https://streams.uzunmuhalefet.com/stream/6d05dc0d-0750-4fd2-912d-726fb4527aeb.m3u8
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/986865f2-192b-42e6-8676-b7772d177698.png" tvg-url="" tvg-id="",Kral Şakir (Cartoon Network)
-https://streams.uzunmuhalefet.com/stream/826bbcdf-150e-4df9-8a47-ec61aa81d9cc.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/f68f7b58-0e57-4d3f-9206-89ab9db41cf6.png" tvg-url="" tvg-id="",Pijamaskeliler
 https://streams.uzunmuhalefet.com/stream/64982309-2b32-4b61-a705-0bd809a47b01.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/4bc13061-fcb9-4f2a-8da0-ff00cf3a63f9.png" tvg-url="" tvg-id="",Rafadan Tayfa
@@ -585,8 +581,6 @@ https://streams.uzunmuhalefet.com/stream/06757a25-e755-4ee7-9a4f-f6c435ccb340.m3
 https://streams.uzunmuhalefet.com/stream/6fb4bdd7-c387-44ab-98db-05a8cd6b54de.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/08c055c8-f0d1-43ee-90dc-51975efe4689.png" tvg-url="" tvg-id="",Kukuli TV
 https://streams.uzunmuhalefet.com/stream/17592f0d-0b50-4e77-adde-033a20af77ec.m3u8
-#EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/df6376d0-8470-4647-9284-fe74d6c2711a.png" tvg-url="" tvg-id="",Tele Mini
-https://streams.uzunmuhalefet.com/stream/dc4a3d8a-6ef5-4871-acf6-1ffd14c115d5.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/e024e058-e25c-44dd-8585-6c89777794d2.png" tvg-url="" tvg-id="",Tombik Panda
 https://streams.uzunmuhalefet.com/stream/6107e773-866b-415c-af07-31db477c6f3f.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/474b5017-7744-4d36-bb54-f5d7c8e43a90.png" tvg-url="" tvg-id="",Mini Bebe
@@ -599,6 +593,8 @@ https://streams.uzunmuhalefet.com/stream/4f63801b-14a6-4e7c-ae1f-66745f694efa.m3
 https://streams.uzunmuhalefet.com/stream/3704c71e-1378-4b81-a7cc-28c0d71cad10.m3u8
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/efe4fc77-352f-46bc-bada-dd94690079cc.png" tvg-url="" tvg-id="",Turbozaurs
 https://streams.uzunmuhalefet.com/stream/aebfb78a-34a2-497d-a8b6-a21499e5bc27.m3u8
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/15267d80-573d-447c-8bc4-50972aae253c.png" tvg-url="" tvg-id="",Maşa ile Koca Ayı
+https://streams.uzunmuhalefet.com/stream/684cd1bc-ef15-4a89-b0bd-fa1bbb71ed78.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="https://assets.uzunmuhalefet.com/logos/f93d9b01-cae6-4fc2-b17c-3ca7d6fa3c50.png" tvg-url="https://www.diyanet.tv/" tvg-id="DiyanetTV.tr",Diyanet TV
 https://streams.uzunmuhalefet.com/stream/5f266099-5038-49e9-aa50-3b7b88d70657.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="https://assets.uzunmuhalefet.com/logos/88e4a89f-60ab-4f84-90e4-fa5ecdc04386.png" tvg-url="https://www.vavtv.com.tr/" tvg-id="VavTV.tr",Vav TV
@@ -677,6 +673,8 @@ https://streams.uzunmuhalefet.com/stream/500a7b1a-97ac-48d8-a90e-fe3d11bfc860.m3
 https://streams.uzunmuhalefet.com/stream/e52acdf9-6fbe-48b5-a962-b89b436e377d.m3u8
 #EXTINF:-1 group-title="Dini" tvg-logo="https://assets.uzunmuhalefet.com/logos/f742c0f0-5a11-4437-a23e-e23892cb5b49.png" tvg-url="https://www.huzurpinari.com/" tvg-id="",Huzur Pınarı
 https://streams.uzunmuhalefet.com/stream/2ac01db4-b87f-4b34-bc31-f59fa0f155a2.m3u8
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/0bbe8ea1-7fa3-402d-8e96-1836077458d7.png" tvg-url="https://1tvtr.com/" tvg-id="",1TVTR
+https://streams.uzunmuhalefet.com/stream/8067831b-abf7-4cf9-adcb-abea2d1409a1.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/3ad1c386-1f55-4d2a-b94e-a9c17dd01912.png" tvg-url="http://azarnegari.com/" tvg-id="",Ahad TV
 https://streams.uzunmuhalefet.com/stream/d06e55d4-8adc-4301-aae6-406c83fe2ffe.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/4f326473-7ee6-40a1-b848-4512dc28b5d6.png" tvg-url="https://www.akkontv.com/" tvg-id="",Akkon TV
@@ -685,8 +683,6 @@ https://streams.uzunmuhalefet.com/stream/74555614-af2a-40ca-aaba-eaa665343c5c.m3
 https://streams.uzunmuhalefet.com/stream/f0dcc95b-b535-4a64-8163-fcebe4206d74.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/cb15ca8a-18fb-4ecc-b810-1346b76cc8de.png" tvg-url="https://www.askertv.com/" tvg-id="",Asker TV
 https://streams.uzunmuhalefet.com/stream/e6541d79-cc28-45bb-9180-0ca50bd832db.m3u8
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/e6a3351e-814f-43c9-856d-fec9cd69a3f3.png" tvg-url="https://ayztv.com.tr/" tvg-id="",AYZ TV
-https://streams.uzunmuhalefet.com/stream/70a52d5d-4db2-4894-b7f4-ec00d0546fef.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/feb106f8-f8a2-41bf-bd0b-9b79eea6e49c.png" tvg-url="" tvg-id="",Başka TV
 https://streams.uzunmuhalefet.com/stream/ad9354e2-2403-488d-a708-59e84822b6ae.m3u8
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://assets.uzunmuhalefet.com/logos/b74b51a2-0659-45a5-8c82-2f3ed680eca4.png" tvg-url="https://begentv.com/" tvg-id="",Beğen TV
@@ -807,8 +803,6 @@ https://streams.uzunmuhalefet.com/stream/96ead36d-cf4a-43e0-a407-ce120932c95d.m3
 https://streams.uzunmuhalefet.com/stream/8aec6af7-c43b-4ce3-92e4-6ddb65e411d5.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/0734832b-07f1-43c7-a97c-16d7d645d76b.png" tvg-url="https://agrt.com.tr/" tvg-id="",AGRT
 https://streams.uzunmuhalefet.com/stream/dc1cdc69-6a34-4620-aeb0-4372bdea87dc.m3u8
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/e6ed029b-4bdb-4e95-acde-24e0b88c83b8.png" tvg-url="https://www.ahitv.com.tr/" tvg-id="",Ahi TV
-https://streams.uzunmuhalefet.com/stream/274588b2-6226-4a6e-8beb-37b3c323ad05.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/5090f060-1303-475e-9e25-61a9af41a8d9.png" tvg-url="" tvg-id="",Akdeniz TV
 https://streams.uzunmuhalefet.com/stream/22b902ed-e2ce-44bc-aada-d1e27d021b03.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/bfd39867-2330-4a11-9a0c-b30ff06cee12.png" tvg-url="https://www.aksutv.com.tr/" tvg-id="AksuTV.tr",Aksu TV
@@ -1075,6 +1069,8 @@ https://streams.uzunmuhalefet.com/stream/974d4a99-8a1d-4a13-93ee-e615ab7881c5.m3
 https://streams.uzunmuhalefet.com/stream/a6134173-2b9d-442b-af96-fd4385f278ae.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/a664ab9a-1c43-4fa8-96b3-99da58649000.png" tvg-url="https://tv264.com.tr/" tvg-id="",TV 264
 https://streams.uzunmuhalefet.com/stream/23a0e9de-9696-47a8-97ec-3d65abd058be.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/d57cb5d8-26d1-4db9-9a58-2a63ae76f6f8.png" tvg-url="https://www.tv38.com.tr/" tvg-id="",TV 38
+https://streams.uzunmuhalefet.com/stream/058c0390-ccf7-472a-8472-e2c13961a97a.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/d583bca7-5fbc-4213-92d7-9110f850ab29.png" tvg-url="https://tv41.com.tr/" tvg-id="TV41.tr",TV 41
 https://streams.uzunmuhalefet.com/stream/9be90c1e-3678-4299-b4de-7739505049ad.m3u8
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/7bdf6ed2-d256-4ca9-88e8-4a08d3f12a7a.png" tvg-url="https://www.tv48.com.tr/" tvg-id="",TV 48
@@ -1229,6 +1225,8 @@ https://streams.uzunmuhalefet.com/stream/8d74a834-bfa1-4969-9d9b-22c9d4ebab76.m3
 https://streams.uzunmuhalefet.com/stream/0fd9c899-f46c-4814-9ee8-da027d09d414.m3u8
 #EXTINF:-1 group-title="7/24 Dizi" tvg-logo="https://assets.uzunmuhalefet.com/logos/cdc55c16-c4c4-4df4-9459-00dd654ea8ce.png" tvg-url="" tvg-id="",Hz. Yusuf
 https://streams.uzunmuhalefet.com/stream/b7c99326-2e34-4974-a430-0f68db5c2806.m3u8
+#EXTINF:-1 group-title="7/24 Dizi" tvg-logo="https://assets.uzunmuhalefet.com/logos/4082dae9-d671-44fb-b666-1696e5a974ac.png" tvg-url="" tvg-id="",Kısmetse Olur
+https://streams.uzunmuhalefet.com/stream/88ab4fa8-b7f4-4f4f-91a9-cab30b94b0b0.m3u8
 #EXTINF:-1 group-title="7/24 Dizi" tvg-logo="https://assets.uzunmuhalefet.com/logos/d3f2d9f4-09a0-4588-8928-a89a5a84e9f8.png" tvg-url="" tvg-id="",Kısmetse Olur: Aşkın Gücü
 https://streams.uzunmuhalefet.com/stream/ac0ce992-2d00-40f4-90a4-a9cff1b7202d.m3u8
 #EXTINF:-1 group-title="7/24 Dizi" tvg-logo="https://assets.uzunmuhalefet.com/logos/d083b2f7-02a2-49a7-9133-91a05401d723.png" tvg-url="" tvg-id="",Kızılcık Şerbeti
